@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contenedor__education {
+    border: 5px solid #cdcdcc;
+    height: 185px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin: 25px 0px 0px 170px;
+}
+
+.contenedor__education_header {
+    align-items: center;
+    background-color: #454545;
+    color: white;
+    display: flex;
+    font-weight: bold;
+    height: 40px;
+    padding: 20px;
+    width: 100%;
+}
+
+.contenedor__education_info {
+    padding: 10px;
+}
+
+.contenedor__education_info p {
+    margin: 5px 0px 15px 5px;
+}
+
+.contenedor__education_info-title {
+    font-size: 22px;
+}
+
+.contenedor__education_info-fecha {
+    color: #5c6263;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.contenedor__education_info-project {
+    font-size: 15px;
+}
