@@ -6,12 +6,12 @@
 }
 
 .contenedor__education {
-    border: 5px solid #cdcdcc;
-    height: 185px;
-    width: 450px;
+    border: 0.313rem solid #cdcdcc;
+    height: 11.563rem;
+    width: 28.125rem;
     display: flex;
     flex-direction: column;
-    margin: 25px 0px 0px 170px;
+    margin: 1.563rem 0rem 0rem 10.625rem;
 }
 
 .contenedor__education_header {
@@ -20,29 +20,29 @@
     color: white;
     display: flex;
     font-weight: bold;
-    height: 40px;
-    padding: 20px;
+    height: 2.5rem;
+    padding: 1.25rem;
     width: 100%;
 }
 
 .contenedor__education_info {
-    padding: 10px;
+    padding: 0.625rem;
 }
 
 .contenedor__education_info p {
-    margin: 5px 0px 15px 5px;
+    margin: 0.313rem 0rem 0.938rem 0.313rem;
 }
 
 .contenedor__education_info-title {
-    font-size: 22px;
+    font-size: 1.375rem;
 }
 
 .contenedor__education_info-fecha {
     color: #5c6263;
-    font-size: 17px;
+    font-size: 1.063rem;
     font-weight: 600;
 }
 
 .contenedor__education_info-project {
-    font-size: 15px;
+    font-size: 0.938rem;
 }

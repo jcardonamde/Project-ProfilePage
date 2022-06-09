@@ -6,72 +6,72 @@
 }
 
 .contenedor__tarjeta-usuario {
-    border: 5px solid #cdcdcc;
-    height: 340px;
-    width: 450px;
+    border: 0.313rem solid #cdcdcc;
+    height: 21.25rem;
+    width: 28.125rem;
     display: flex;
     flex-direction: column;
-    margin: 30px 0px 0px 170px;
+    margin: 1.875rem 0rem 0rem 10.625rem;
     position: relative;
 }
 
 .photo__icon-carduser {
     border-radius: 50%;
-    border: 5px solid #cdd1d2;
-    height: 100px;
-    width: 100px;
+    border: 0.313rem solid #cdd1d2;
+    height: 6.25rem;
+    width: 6.25rem;
     position: absolute;
-    top: 30px;
-    left: 30px;
+    top: 1.875rem;
+    left: 1.875rem;
 }
 
 .contenedor__header-info_user {
     background-color: #14a4bc;
-    border: 3px solid #14a4bc;
-    height: 100px;
+    border: 0.188rem solid #14a4bc;
+    height: 6.25rem;
     width: 100%;
 }
 .contenedor__info-user {
-    border: 1px solid lightgrey;
-    height: 350px;
+    border: 0.063rem solid lightgrey;
+    height: 21.875rem;
     width: 100%;
 }
 
 .contenedor__info-user h1 {
-    margin: 50px 0px 0px 30px;
+    margin: 3.125rem 0rem 0rem 1.875rem;
 }
 
 .user__ubication-carduser {
     display: flex;
-    margin: 10px 0px 0px 30px;
+    margin: 0.625rem 0rem 0rem 1.875rem;
 }
 
 .photo__map-carduser {
-    height: 20px;
-    width: 12px;
+    height: 1.25rem;
+    width: 0.75rem;
 }
 
 .user__ubication-carduser p {
-    font-size: 20px;
-    margin-left: 10px;
+    font-size: 1.25rem;
+    margin-left: 0.625rem;
 }
 
 .user__description-carduser {
-    margin: 15px 0px 0px 30px;
+    margin: 0.938rem 0rem 0rem 1.875rem;
 }
 
 .user__configurations-carduser {
     display: flex;
-    margin: 15px 0px 0px 30px;
+    margin: 0.938rem 0rem 0rem 1.875rem;
 }
 
 .photo__settings-carduser {
-    height: 20px;
-    width: 20px;
+    height: 1.25rem;
+    width: 1.25rem;
 }
 
 .user__configurations-carduser a {
     color: blue;
-    font-size: 17px;
-    margin-left: 10px;
+    font-size: 1.063rem;
+    margin-left: 0.625rem;
 }

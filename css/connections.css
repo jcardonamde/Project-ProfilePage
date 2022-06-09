@@ -6,74 +6,74 @@
 }
 
 .contenedor__connections {
-    border: 5px solid #cdcdcc;
+    border: 0.313rem solid #cdcdcc;
     display: flex;
     flex-direction: column;
-    height: 335px;
-    width: 260px;
+    height: 20.938rem;
+    width: 16.25rem;
     position: absolute;
-    top: 305px;
-    left: 650px;
+    top: 19.063rem;
+    left: 40.625rem;
 }
 
 .contenedor__connections_header {
     align-items: center;
     background-color: #454545;
     display: flex;
-    height: 50px;
+    height: 3.125rem;
     justify-content: space-evenly;
-    padding: 15px;
+    padding: 0.938rem;
     width: 100%;
 }
 
 .contenedor__connections_header-number {
     background-color: lightgray;
     border-radius: 50%;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 500;
-    height: 30px;
-    padding: 5px;
+    height: 1.875rem;
+    padding: 0.313rem;
     text-align: center;
-    width: 50px;
+    width: 3.125rem;
 }
 
 .contenedor__connections_header-title {
     color: white;
-    font-size: 17px;
-    margin-left: 10px;
+    font-size: 1.063rem;
+    margin-left: 0.625rem;
 }
 
 .contenedor__connections__people {
     display: flex;
     flex-direction: column;
-    height: 230px;
-    padding: 10px;
+    height: 14.375rem;
+    padding: 0.625rem;
 }
 
 .contenedor__connections__people-profile {
     align-items: center;
     display: flex;
-    margin: 7px 0px;
+    margin: 0.438rem 0rem;
 }
 
 .user__connections_picture {
     border-radius: 50%;
-    height: 40px;
-    width: 40px;
+    height: 2.5rem;
+    width: 2.5rem;
 }
 
 .contenedor__connections__people-profile p {
-    font-size: 20px;
-    margin-left: 15px;
+    font-size: 1.25rem;
+    margin-left: 0.938rem;
     text-align: center;
 }
 
 .contenedor__connections__link {
     
-    border-top: 5px solid #cdcdcc;
-    font-size: 18px;
-    height: 40px;
-    padding: 10px;
+    border-top: 0.313rem solid #cdcdcc;
+    font-size: 1.125rem;
+    height: 2.5rem;
+    padding: 0.625rem;
 }
 
 .contenedor__connections__link p a {
